@@ -1,0 +1,7 @@
+
+*.dat
+
+/vendor
+composer.phar
+
+/config/env.dev.json
